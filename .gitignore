@@ -1,0 +1,5 @@
+.DS_Store
+
+# Temporary export/office lock files
+assets/presentations/.~lock.*
+assets/presentations/*.tmp
