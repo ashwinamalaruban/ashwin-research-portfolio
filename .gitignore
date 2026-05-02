@@ -3,3 +3,7 @@
 # Temporary export/office lock files
 assets/presentations/.~lock.*
 assets/presentations/*.tmp
+
+# Local JAX materials (iterate before publishing to the site repo)
+tutorials/jax-for-md-practitioners.ipynb
+tutorials/jax-grad-companion.md
